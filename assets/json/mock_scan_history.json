@@ -1,0 +1,127 @@
+{
+  "scan_history": [
+    {
+      "id": "scan_001",
+      "content": "https://flutter.dev",
+      "type": "url",
+      "title": "Flutter - Build apps for any screen",
+      "timestamp": "2024-01-15T10:30:00Z",
+      "isFavorite": true,
+      "metadata": {
+        "description": "Flutter transforms the entire app development process. Build, test, and deploy beautiful mobile, web, desktop, and embedded apps from a single codebase.",
+        "icon": "https://flutter.dev/images/flutter-logo-sharing.png"
+      }
+    },
+    {
+      "id": "scan_002",
+      "content": "WIFI:S:MyHomeNetwork;T:WPA;P:password123;;",
+      "type": "wifi",
+      "title": "WiFi: MyHomeNetwork",
+      "timestamp": "2024-01-15T09:15:00Z",
+      "isFavorite": false,
+      "metadata": {
+        "ssid": "MyHomeNetwork",
+        "password": "password123",
+        "encryption": "WPA"
+      }
+    },
+    {
+      "id": "scan_003",
+      "content": "BEGIN:VCARD\nVERSION:3.0\nFN:John Doe\nTEL:+1234567890\nEMAIL:john.doe@example.com\nEND:VCARD",
+      "type": "contact",
+      "title": "Contact: John Doe",
+      "timestamp": "2024-01-14T16:45:00Z",
+      "isFavorite": true,
+      "metadata": {
+        "name": "John Doe",
+        "phone": "+1234567890",
+        "email": "john.doe@example.com"
+      }
+    },
+    {
+      "id": "scan_004",
+      "content": "https://pub.dev",
+      "type": "url",
+      "title": "Pub.dev - Dart packages",
+      "timestamp": "2024-01-14T14:20:00Z",
+      "isFavorite": false,
+      "metadata": {
+        "description": "Pub is the package manager for the Dart programming language, containing reusable libraries & packages for Flutter and general Dart programs.",
+        "icon": "https://pub.dev/static/img/pub-dev-logo-2x.png"
+      }
+    },
+    {
+      "id": "scan_005",
+      "content": "MATMSG:TO:email@example.com;SUB:Hello;BODY:This is a test email;;",
+      "type": "email",
+      "title": "Email: email@example.com",
+      "timestamp": "2024-01-13T11:00:00Z",
+      "isFavorite": false,
+      "metadata": {
+        "to": "email@example.com",
+        "subject": "Hello",
+        "body": "This is a test email"
+      }
+    },
+    {
+      "id": "scan_006",
+      "content": "SMSTO:+9876543210:Hello, this is a test message!",
+      "type": "sms",
+      "title": "SMS: +9876543210",
+      "timestamp": "2024-01-12T08:30:00Z",
+      "isFavorite": false,
+      "metadata": {
+        "phone": "+9876543210",
+        "message": "Hello, this is a test message!"
+      }
+    },
+    {
+      "id": "scan_007",
+      "content": "https://github.com/flutter/flutter",
+      "type": "url",
+      "title": "GitHub - flutter/flutter",
+      "timestamp": "2024-01-11T19:15:00Z",
+      "isFavorite": true,
+      "metadata": {
+        "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+        "icon": "https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
+      }
+    },
+    {
+      "id": "scan_008",
+      "content": "geo:37.4220,-122.0841?q=Googleplex",
+      "type": "location",
+      "title": "Location: Googleplex",
+      "timestamp": "2024-01-10T13:45:00Z",
+      "isFavorite": false,
+      "metadata": {
+        "latitude": 37.4220,
+        "longitude": -122.0841,
+        "query": "Googleplex"
+      }
+    },
+    {
+      "id": "scan_009",
+      "content": "This is just plain text content from a QR code scan.",
+      "type": "text",
+      "title": "Plain Text",
+      "timestamp": "2024-01-09T17:20:00Z",
+      "isFavorite": false,
+      "metadata": {
+        "length": 47
+      }
+    },
+    {
+      "id": "scan_010",
+      "content": "https://stackoverflow.com/questions/tagged/flutter",
+      "type": "url",
+      "title": "Stack Overflow - Flutter Questions",
+      "timestamp": "2024-01-08T10:00:00Z",
+      "isFavorite": true,
+      "metadata": {
+        "description": "Flutter is Google's UI toolkit for building beautiful, natively compiled applications for mobile, web, and desktop from a single codebase.",
+        "icon": "https://cdn.sstatic.net/Sites/stackoverflow/Img/apple-touch-icon.png"
+      }
+    }
+  ]
+}
